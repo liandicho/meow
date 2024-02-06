@@ -1,0 +1,136 @@
+
+
+body {
+  background-color : #d8f3dc;
+}
+
+
+div.caption1 {
+  text-align: center;
+  font-size: 40px;
+  font-family: "comic sans ms"; 
+  color: #f2bac9;
+
+}
+
+div.pics1 {
+	padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+div.pics2 {
+	padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+
+}
+
+div.buttons {
+  text-align: center
+
+}
+
+button {
+  background-color: #f2bac9; 
+  border: none;
+  border-radius: 12px;
+  color: #d8f3dc;
+  padding: 30px 64px;
+  margin: 15px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "comic sans ms"; 
+  cursor: pointer;
+  
+}
+
+div.yes1 {
+  padding-top: 1px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "comic sans ms"; 
+  color: #f2bac9;
+
+} 
+
+div.yes2 {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+div.yes3 {
+  text-align: center;
+}
+
+div.link {
+  background-color: #f2bac9; 
+  border: none;
+  border-radius: 12px;
+  color: #d8f3dc;
+  padding: 18px 26px;
+  margin: 15px;
+  text-align: center;
+  font-size: 25px;
+  font-family: "comic sans ms"; 
+  cursor: pointer;
+  display: inline-block;
+}
+
+
+div.hide {
+  display: none;
+}
+
+div.myDIV {
+  text-align: center;
+  font-size: 40px;
+  font-family: "comic sans ms"; 
+  color: #f2bac9;
+
+}
+
+div.myDIV:hover +.hide {
+  display: block;
+  color: #f2bac9;
+  font-family: comic sans ms;
+}
+
+button.buttonyes {
+  background-color: #f2bac9; 
+  border: none;
+  border-radius: 12px;
+  color: #d8f3dc;
+  padding: 18px 26px;
+  margin: 15px;
+  text-align: center;
+  font-size: 25px;
+  font-family: "comic sans ms"; 
+  cursor: pointer;
+  
+}
+
+div.no1 {
+  padding-top: 5px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "comic sans ms"; 
+  color: #f2bac9;
+
+}
+
+
+div.no2 {
+  padding-top: 2px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "comic sans ms"; 
+  color: #f2bac9;
+}
+
+
+
+
+
